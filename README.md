@@ -1,5 +1,5 @@
 # digi_stat_designer
-A tool I had made with Chat-gpt, to make the process of allocating stats on Digimon and organizing their digivolutions easier. Can be accessed at https://e-readme.github.io/digi_stat_designer/
+A tool I had made with Chat-gpt, to make the process of allocating stats on Digimon and organizing their digivolutions easier. Can be accessed at https://e-readme.github.io/digi_stat_evo_tool/
 
 To be used with the species info document - https://github.com/e-ReadMe/pokeemerald-expansion_Project_ReLoad/blob/master/src/data/pokemon/species_info/digi_1997_1999.h
 
